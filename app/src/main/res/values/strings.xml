@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SD6501</string>
+    <string name="login">Login</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="checkBox">Remember Me</string>
+    <string name="signUp">Sign Up</string>
+    <string name="myList">My List</string>
+    <string name="profileList">Welcome to my list</string>
+    <string name="website">MyMangaList</string>
+    <string name="Name">Enter your new username</string>
+    <string name="password">Password: </string>
+    <string name="newPassword">Enter your new password</string>
+    <string name="confirmPassword">Confirm your new password</string>
+    <string name="emailAddress">Enter your email address</string>
+    <string name="confirmSignUp">Continue</string>
+    <string name="createNewAccount">Create a new Account</string>
+    <string name="userName">Username: </string>
+    <string name="email">Email: </string>
+    <string name="confirmPassword2">Confirm Password: </string>
+    <string name="home">Home</string>
+    <string name="username">Enter your username</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
